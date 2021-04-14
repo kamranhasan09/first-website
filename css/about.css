@@ -1,0 +1,26 @@
+#about
+{
+min-height:600px;
+width:100%;
+background-color:pink;	
+
+}
+#innerimg
+{
+min-height:250px;
+width:100%;
+background-color:white;	
+float:left;
+}
+#matter
+{
+min-height:400px;
+background-color:white;	
+float:left;
+}
+#image:hover
+{
+	box-shadow:none;
+}
+
+

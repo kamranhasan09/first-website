@@ -1,0 +1,31 @@
+#course
+{
+min-height:500px;
+width:100%;
+background-color:#004d66;
+float:left;
+}
+.cour
+{
+	height:400px;
+	width:400px;
+	background-color:	 #006666;
+	float:left;
+	margin:20px;
+	box-shadow: 0 20px 20px 0 
+}
+.cour:hover
+{
+	box-shadow:none;
+}
+.cour ul li 
+{
+	color:white;
+}
+.cour ul{
+color:black;
+font-weight:bold;
+}
+
+
+		

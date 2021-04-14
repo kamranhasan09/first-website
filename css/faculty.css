@@ -1,0 +1,58 @@
+#faculty
+{
+min-height:500px;
+width:100%;
+background-color:white;
+float:left;
+}
+#left
+{
+min-height:500px;
+width:40%;
+background-color:#007399;
+float:left;
+}
+#right
+{
+min-height:500px;
+width:40%;
+background-color:#007399;
+float:right;
+}
+#Cse
+{
+	min-height:50px;
+	width:100%;
+	color:white;
+	background-color:#007399;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	float:left;
+
+}
+
+
+#img
+{
+	height:400px;
+	width:400px;
+	margin:50px;
+	background-color:#002633;
+	border-radius:40px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   color:white;
+}
+
+#leftin{
+       height:480;
+	  width:95%;
+	margin-top:50px;
+	margin-left:20px;
+	color:white;
+
+}
+#obovefooter
+{
+height:500px;
+background-color:red;
+float:left;
+}
